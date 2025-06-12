@@ -1,6 +1,7 @@
-!> The _Sysdig Orchestrator Agent_ will be deprecated in **June 2025** in favour of _Workload Agents_ connecting directly to Sysdig endpoints.
-
 # Sysdig Orchestrator Agent for ECS Fargate
+
+> [!WARNING]
+> The _Sysdig Orchestrator Agent_ will be deprecated in **June 2025** in favour of _Workload Agents_ connecting directly to Sysdig endpoints.
 
 This Terraform module deploys a Sysdig orchestrator agent for Fargate into a specified VPC.
 
